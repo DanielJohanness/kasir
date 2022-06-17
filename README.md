@@ -1,1 +1,1 @@
-# applikasi kasir
+# aplikasi kasir
