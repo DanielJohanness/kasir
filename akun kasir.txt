@@ -1,0 +1,8 @@
+username admin : daniel
+password admin : daniel
+
+username manajer : fiqih
+password manajer : 123
+
+username kasir : andi
+password kasir : 123
